@@ -1,20 +1,12 @@
 export const projects = [
   {
-    title: 'Nova Player',
-    description:"A music player built in React, using Shazam's API to fetch songs, charts, lyrics and song data of the country it is being viewed from. Fully mobile responsive.",
-    image: '/images/novaPlayerMock.png',
-    tags: ['React', 'Redux', 'TailwindCSS', 'RapidAPI'],
-    visit: 'https://github.com/najeesidahmed/react-music-player/tree/master',
-    id: 0,
-  },
-  {
     title: 'Nova Chat',
     description: "Chat application built using React, a REST API, Sockets and Chat Engine. You can login with credentials saved in local storage, send and recieve images that are stored within chat and send and recieve messages.",
       image: '/images/nova chat mock.png',
       tags: ['React', 'WebSockets', 'REST API'],
     source: 'https://nova-chat-app.netlify.app/',
     visit: 'https://github.com/najeesidahmed/nova-chat',
-    id: 1,
+    id: 0,
   },
   {
     title: 'React Task List',
@@ -23,7 +15,7 @@ export const projects = [
       tags: ['React'],
     source: 'https://reacttasklisttodo.netlify.app/',
     visit: 'https://github.com/najeesidahmed/reactToDo/tree/master',
-    id: 2,
+    id: 1,
   },
   {
     title: 'Portfolio Website',
@@ -32,7 +24,7 @@ export const projects = [
     tags: ['React', 'Next.js'],
     source: 'https://najeesidahmed.com/',
     visit: 'https://github.com/najeesidahmed/portfolio-site',
-    id: 3,
+    id: 2,
   },
 ];
 

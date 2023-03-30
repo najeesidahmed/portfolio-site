@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         An aspiring web developer, who loves designing, building and creating applications and programmes as an expression of my imagination.
       </SectionText>
-      <Button><a href="mailto:najeesidah@gmail.com">Get in touch</a></Button>
+      <Button><a href="mailto:najeekamil@msn.com">Get in touch</a></Button>
     </LeftSection>
   </Section>
 );
